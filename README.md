@@ -14,5 +14,6 @@ switch and managed a self-hosted server. I also have extensive experience with l
   [battleship/bimaru logic](https://en.wikipedia.org/wiki/Battleship_(puzzle)) puzzle complete with an automatic solver.
 * [Palm](https://github.com/gnattily/Palm), a Discord bot designed to flag toxic messages using [Perspective API](https://perspectiveapi.com).
 * [react-chess](https://github.com/gnattily/react-chess), an extensive though ultimately archived implementation of chess in [React.js](https://react.dev).
+* [Byome](https://github.com/gnattily/Byome), a world-generation mod I made for a class in middle school
 * [gnattily.github.io](https://github.com/gnattily/gnattily.github.io), a simple HTML-based website to generate a sequence of notes at a consistent rate.
 * [calculator-commands](https://github.com/gnattily/calculator-commands), a simple Minecraft mod to calculate expressions via chat (`/calc` or `/calculate`).
