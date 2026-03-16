@@ -11,7 +11,7 @@ switch and managed a self-hosted server. I also have extensive experience with l
 
 ##  Projects
 * [battleship-solitaire](https://github.com/gnattily/battleship-solitaire), a Next.js implementation of the
-  [battleship/bimaru logic](https://en.wikipedia.org/wiki/Battleship_(puzzle)) puzzle complete with an automatic solver.
+  [battleship/bimaru logic puzzle](https://en.wikipedia.org/wiki/Battleship_(puzzle)) complete with an automatic solver.
 * [Palm](https://github.com/gnattily/Palm), a Discord bot designed to flag toxic messages using [Perspective API](https://perspectiveapi.com).
 * [react-chess](https://github.com/gnattily/react-chess), an extensive though ultimately archived implementation of chess in [React.js](https://react.dev).
 * [Byome](https://github.com/gnattily/Byome), a world-generation mod I made for a class in middle school
